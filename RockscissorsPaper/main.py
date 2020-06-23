@@ -1,7 +1,6 @@
 import random
+
 print('Rock Scissors Paper')
-
-
 
 def loop():
     print('Please enter your items [rock,scissors,paper]')
@@ -44,4 +43,3 @@ def loop():
 
             
 loop()
-    
