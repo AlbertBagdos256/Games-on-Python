@@ -1,5 +1,7 @@
+#-------------------------#
 #Dungeon and Dragons
 #Author: Albert Bagdasarov
+#-------------------------#
 import random
 import time
 
